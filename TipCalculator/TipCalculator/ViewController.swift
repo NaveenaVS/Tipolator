@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func onTap(_ sender: Any) {
-        //here cide will be run whenever a user taps something.
+        //here cide will be run whenever a user taps something.lololo
         //ex: print("Hello")  -> Hello will be printed on the console when the user taps in the screen
         print("Hello")
         //here we wanna dismiss the keyboard on tap: view for our view where the tap gesture is placed and the endEditting funct is to dismiss keyboard whenever we tap => make value true for this
