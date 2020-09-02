@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of my Tripolator:
 
 <img src='https://media.giphy.com/media/QsC8v063fMkW1c4MsH/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
