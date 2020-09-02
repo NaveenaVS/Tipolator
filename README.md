@@ -4,7 +4,7 @@
 
 Submitted by: **Naveena Vishnu Sankar**
 
-Time spent: **5** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -34,7 +34,7 @@ GIF created with [Giphy](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: Creating a gif link compatible to be displayed in the README took an extremely long time to figure out.
 
 ## License
 
